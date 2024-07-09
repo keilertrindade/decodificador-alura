@@ -3,7 +3,7 @@
 ## 🚀 Começando
 
 Realize o download do projeto completo!
-Ou [Clique Aqui](https://developer.mozilla.org/pt-BR/docs/Web/HTML) para acessar o projeto hospedado.
+Ou [Clique Aqui](https://keilertrindade.github.io/decodificador-alura/) para acessar o projeto hospedado.
 
 ### 📋 Requisitos do projeto
 
